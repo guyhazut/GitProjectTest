@@ -1,0 +1,29 @@
+Software Engineering Project.
+Distributed Systems Development.
+Information Systems Modelling.
+Specification of Software Systems.
+Software Evolution.
+Software Quality.
+Agile Methods.
+Data Integration and Analysis
+Operating Systems Architecture
+Algorithms & Data Structures
+Artificial Intelligence
+Information Security
+Computer Networks I
+xThe Software Process
+Embedded Systems Design & Interfacing
+Web Information Systems
+Cloud Computing
+Advanced Database Systems
+Compilers and Interpreters
+Advanced Algorithms & Data Structures
+Machine Learning
+Computer Networks II
+Advanced topics in Security
+Distributed Computing
+Advanced Embedded Systems
+Principles of Program Analysis
+Advanced Human-Computer Interaction
+Data Mining
+Advanced Techniques for High Dimensional Data
